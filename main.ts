@@ -1,3 +1,3 @@
-
-brick.setStatusLight(StatusLi
-motors.largeAB.tank(50, 50)ght.Orange)
+motors.largeBC.run(50, 3, MoveUnit.Rotations)
+motors.largeBC.setBrake(true)
+music.playSoundEffect(sounds.animalsDogBark1)
